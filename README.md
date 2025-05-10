@@ -12,7 +12,7 @@ We provide examples for solving RGEs using D7RGESolver and calculating neutrinol
 # Features
 
 - Solve the RGEs of full dimension-5 and dimension-7 SMEFT operators.
-- Solve the RGEs at both up- and down-quark flavor bases.
+- Solve the RGEs in both up- and down-quark flavor bases.
 - Generate the constraints on the single Wilson coefficient at any scale above electroweak scale from 0vbb automatically.
 - Study other lepton-number-violating and baryon-number-violating processes with RGE effects.
 
