@@ -29,7 +29,7 @@ If you use `D7RGESolver` in your work, please cite the following:
 
 # Related work
 
-- The dimension-5 and dimension-7 SMEFT operator bases and RGEs are based on [10.1103/PhysRevLett.43.1566], [hep-ph/0108005], [arXiv:1410.4193],[arXiv:1607.07309], [arXiv:1901.10302], [arXiv:2306.03008], and [arXiv:2310.11055].
+- The dimension-5 and dimension-7 SMEFT operator bases and RGEs are based on [10.1103/PhysRevLett.43.1566], [hep-ph/0108005], [arXiv:1410.4193], [arXiv:1607.07309], [arXiv:1901.10302], [arXiv:2306.03008], and [arXiv:2310.11055].
                                                                              
                                                                             
 # Dependencies
