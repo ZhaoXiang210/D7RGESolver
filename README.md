@@ -39,7 +39,7 @@ Required Python packages:
 - pandas
 - matplotlib
 
-The project can interface with [nudobe] for calculations related to neutrinoless double-beta decay observables. Note that nudobe is a separate tool developed by others.
+-The project can interface with [nudobe] for calculations related to neutrinoless double-beta decay observables. Note that nudobe is a separate tool developed by others.
 
 # License
 
