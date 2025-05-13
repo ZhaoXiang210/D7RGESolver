@@ -20,12 +20,12 @@ We provide examples for solving RGEs using D7RGESolver and calculating neutrinol
 
 - If you use `D7RGESolver` in your work, please cite the following:
 
- >"RGE solver for the complete dim-7 SMEFT interactions and its application to 0νββ decay"
+ "RGE solver for the complete dim-7 SMEFT interactions and its application to 0νββ decay"
 
- >"RGE solver for the complete dim-7 SMEFT interactions and its application to 0νββ decay"
+ "RGE solver for the complete dim-7 SMEFT interactions and its application to 0νββ decay"
   Yi Liao, Xiao-Dong Ma, Hao-Lin Wang and Xiang Zhao
 
- >"RGE solver for the complete dim-7 SMEFT interactions and its application to 0νββ decay"
+ "RGE solver for the complete dim-7 SMEFT interactions and its application to 0νββ decay"
   [arXiv:2505.06499]
 
 
