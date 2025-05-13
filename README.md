@@ -24,7 +24,7 @@ We provide examples for solving RGEs using D7RGESolver and calculating neutrinol
 >
 >  Yi Liao, Xiao-Dong Ma, Hao-Lin Wang and Xiang Zhao
 >
->  [arXiv:1111.1111 [hep-ph]](https://arxiv.org/abs/1111.1111)
+>  [arXiv:2505.06499]
 
 
 # Related work
