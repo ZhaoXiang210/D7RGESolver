@@ -7,7 +7,7 @@ We provide examples for solving RGEs using D7RGESolver and calculating neutrinol
 
 **Contact:**  
 - **Name:** Xiang Zhao  
-- **Email:** 3348672047@qq.com 
+- **Email:** zhaox88@mail2.sysu.edu.cn; 3348672047@qq.com 
 
 # Features
 
